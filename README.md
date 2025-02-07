@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koshlesh Kumar Raj</h1>
 <h3 align="center">I'm a passionate Software Engineer</h3>
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** 
 
 - 💬 Ask me about **Web Development & UI/UX**
 - 💬 Ask me about **Web Development & DevOps**
