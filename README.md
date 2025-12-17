@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN, C++, Java, Python, Figma, Git**
 
-- 📫 How to reach me **koshleshkumarraj21@gmail.com**
+- 📫 How to reach me **koshleshkumar21@gmail.com**
 
 - ⚡ Fun fact **I'm hilarious**
 
