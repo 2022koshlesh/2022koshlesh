@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2022koshlesh" alt="2022koshlesh" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Medical Store](https://smart-medical-store-ib1y.vercel.app/)
+- 🔭 I’m currently working on [Data Structure & Algorithm Documentation Project || A complete roadmap for fresheee](https://dsa-docs-lemon.vercel.app/)
 
 - 💬 Ask me about **MERN, C++, Java, Python, Figma, Git**
 
