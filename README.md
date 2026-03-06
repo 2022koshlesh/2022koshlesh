@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koshlesh Kumar Raj</h1>
+<h1 align="center">Hi 👋, I'm Sonu Kumari</h1>
 <h3 align="center">I'm a passionate Software Engineer</h3>
 - 🌱 I’m currently learning **DSA** 
  
